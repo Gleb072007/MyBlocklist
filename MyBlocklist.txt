@@ -1,0 +1,21 @@
+metrika.yandex.ru
+adfox.yandex.ru
+adfstat.yandex.ru
+graph.facebook.com (http://graph.facebook.com/)
+graph.instagram.com (http://graph.instagram.com/)
+ads-api.x.com (http://ads-api.x.com/)
+ads.x.com (http://ads.x.com/)
+events.reddit.com (http://events.reddit.com/)
+business-api.tiktok.com (http://business-api.tiktok.com/)
+ct.pinterest.com (http://ct.pinterest.com/)
+log.pinterest.com (http://log.pinterest.com/)
+trk.pinterest.com (http://trk.pinterest.com/)
+pixel.quora.com (http://pixel.quora.com/)
+top-fwz1.mail.ru
+shareasale-analytics.com (http://shareasale-analytics.com/)
+click.linksynergy.com (http://click.linksynergy.com/)
+impact.com (http://impact.com/)
+api.impact.com (http://api.impact.com/)
+zenaps.com (http://zenaps.com/)
+api.refersion.com (http://api.refersion.com/)
+redirect.viglink.com (http://redirect.viglink.com/)
